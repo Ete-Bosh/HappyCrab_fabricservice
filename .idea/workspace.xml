@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="fabricservice:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="226c4b33-d4f8-47ed-8e78-07f4f6509a86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aLt9dNvVSEuZ1iVap6dVccZUh2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FabricServiceTest.setup7">
+    <configuration name="FabricServiceTest.setup15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fabricservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bosh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bosh.test" />
+      <option name="MAIN_CLASS_NAME" value="bosh.test.FabricServiceTest" />
+      <option name="METHOD_NAME" value="setup15" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FabricServiceTest.setup5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fabricservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bosh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bosh.test" />
+      <option name="MAIN_CLASS_NAME" value="bosh.test.FabricServiceTest" />
+      <option name="METHOD_NAME" value="setup5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FabricServiceTest.setup6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fabricservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bosh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bosh.test" />
+      <option name="MAIN_CLASS_NAME" value="bosh.test.FabricServiceTest" />
+      <option name="METHOD_NAME" value="setup6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FabricServiceTest.setup7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fabricservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bosh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bosh.test" />
+      <option name="MAIN_CLASS_NAME" value="bosh.test.FabricServiceTest" />
+      <option name="METHOD_NAME" value="setup7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FabricServiceTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fabricservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bosh.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bosh.test" />
+      <option name="MAIN_CLASS_NAME" value="bosh.test.FabricServiceTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FabricServiceTest.setup7" />
+        <item itemvalue="JUnit.FabricServiceTest.setup6" />
+        <item itemvalue="JUnit.FabricServiceTest.setup15" />
+        <item itemvalue="JUnit.FabricServiceTest.setup5" />
+        <item itemvalue="JUnit.FabricServiceTest.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="226c4b33-d4f8-47ed-8e78-07f4f6509a86" name="Default Changelist" comment="" />
+      <created>1586526551516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586526551516</updated>
+      <workItem from="1586526553068" duration="6081000" />
+      <workItem from="1586572610232" duration="10826000" />
+      <workItem from="1586587446434" duration="2100000" />
+      <workItem from="1586589556373" duration="2078000" />
+      <workItem from="1586593047968" duration="11488000" />
+      <workItem from="1586605284559" duration="8623000" />
+      <workItem from="1586791652095" duration="1148000" />
+      <workItem from="1586794248587" duration="806000" />
+      <workItem from="1587020779127" duration="7000" />
+      <workItem from="1587088483468" duration="1043000" />
+      <workItem from="1587102737440" duration="4000" />
+      <workItem from="1587103433473" duration="2396000" />
+      <workItem from="1587109854935" duration="5415000" />
+      <workItem from="1587129801962" duration="11062000" />
+      <workItem from="1587176929553" duration="6990000" />
+      <workItem from="1587210104376" duration="518000" />
+      <workItem from="1587210639382" duration="2754000" />
+      <workItem from="1587635330409" duration="85000" />
+      <workItem from="1587984168246" duration="441000" />
+      <workItem from="1587992628267" duration="772000" />
+      <workItem from="1588052850138" duration="1840000" />
+      <workItem from="1588127136487" duration="683000" />
+      <workItem from="1588152435089" duration="260000" />
+      <workItem from="1589009991353" duration="590000" />
+      <workItem from="1589016790403" duration="2309000" />
+      <workItem from="1589166009103" duration="5623000" />
+      <workItem from="1589174307970" duration="376000" />
+      <workItem from="1589174694689" duration="1054000" />
+      <workItem from="1589194111729" duration="475000" />
+      <workItem from="1589194598447" duration="1914000" />
+      <workItem from="1589196524297" duration="118000" />
+      <workItem from="1589197159505" duration="11000" />
+      <workItem from="1589197181936" duration="3503000" />
+      <workItem from="1589540977443" duration="41000" />
+      <workItem from="1589542099646" duration="645000" />
+      <workItem from="1589545024702" duration="669000" />
+      <workItem from="1589969935967" duration="1413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="194" width="800" height="695" key="#Inspections" timestamp="1586530081488">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="591" y="194" width="800" height="695" key="#Inspections/67.27.1853.1052@67.27.1853.1052" timestamp="1586530081488" />
+    <state x="591" y="194" width="800" height="695" key="#Project_Structure" timestamp="1586587949346">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="591" y="194" width="800" height="695" key="#Project_Structure/67.27.1853.1052@67.27.1853.1052" timestamp="1586587949346" />
+    <state x="455" y="137" width="1095" height="881" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586590894194">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="455" y="137" width="1095" height="881" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1586590894194" />
+    <state x="804" y="216" width="374" height="580" key="#com.intellij.ide.util.MemberChooser" timestamp="1586528379236">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="804" y="216" width="374" height="580" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1052@67.27.1853.1052" timestamp="1586528379236" />
+    <state x="695" y="320" width="525" height="451" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589195421781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="695" y="320" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589195421781" />
+    <state x="738" y="351" width="525" height="451" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1586590498961" />
+    <state x="806" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587109908161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587109908161" />
+    <state x="1199" y="214" width="524" height="502" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1586591514512">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="1199" y="214" width="524" height="502" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1586591514512" />
+    <state x="715" y="221" key="#xdebugger.evaluate" timestamp="1587131318272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="221" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1587131318272" />
+    <state x="779" y="291" width="424" height="502" key="FileChooserDialogImpl" timestamp="1586588589762">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="779" y="291" width="424" height="502" key="FileChooserDialogImpl/67.27.1853.1052@67.27.1853.1052" timestamp="1586588589762" />
+    <state width="1877" height="200" key="GridCell.Tab.0.bottom" timestamp="1589201162165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589201162165" />
+    <state width="1799" height="274" key="GridCell.Tab.0.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1587105829259" />
+    <state width="1877" height="200" key="GridCell.Tab.0.center" timestamp="1589201162165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589201162165" />
+    <state width="1799" height="274" key="GridCell.Tab.0.center/67.27.1853.1052@67.27.1853.1052" timestamp="1587105829258" />
+    <state width="1877" height="200" key="GridCell.Tab.0.left" timestamp="1589201162165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589201162165" />
+    <state width="1799" height="274" key="GridCell.Tab.0.left/67.27.1853.1052@67.27.1853.1052" timestamp="1587105829258" />
+    <state width="1877" height="200" key="GridCell.Tab.0.right" timestamp="1589201162165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="200" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589201162165" />
+    <state width="1799" height="274" key="GridCell.Tab.0.right/67.27.1853.1052@67.27.1853.1052" timestamp="1587105829258" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1589196513894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589196513894" />
+    <state width="1799" height="339" key="GridCell.Tab.1.bottom/67.27.1853.1052@67.27.1853.1052" timestamp="1586618474383" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1589196513894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589196513894" />
+    <state width="1799" height="339" key="GridCell.Tab.1.center/67.27.1853.1052@67.27.1853.1052" timestamp="1586618474383" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1589196513894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589196513894" />
+    <state width="1799" height="339" key="GridCell.Tab.1.left/67.27.1853.1052@67.27.1853.1052" timestamp="1586618474383" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1589196513894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589196513894" />
+    <state width="1799" height="339" key="GridCell.Tab.1.right/67.27.1853.1052@67.27.1853.1052" timestamp="1586618474383" />
+    <state x="405" y="31" width="1031" height="748" key="SettingsEditor" timestamp="1589545089253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="405" y="31" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589545089253" />
+    <state x="458" y="58" width="1031" height="748" key="SettingsEditor/67.27.1853.1052@67.27.1853.1052" timestamp="1586593174159" />
+    <state x="759" y="310" width="465" height="463" key="chooseDestDirectoryDialog" timestamp="1586590880015">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="759" y="310" width="465" height="463" key="chooseDestDirectoryDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1586590880015" />
+    <state x="747" y="315" key="classpath-attribute-editor" timestamp="1589195389898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="315" key="classpath-attribute-editor/0.0.1920.1040@0.0.1920.1040" timestamp="1589195389898" />
+    <state x="602" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1589969935688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="602" y="189" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589969935688" />
+    <state x="648" y="218" key="com.intellij.ide.util.TipDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1587103433189" />
+    <state x="752" y="205" width="479" height="673" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586588331399">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="752" y="205" width="479" height="673" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1853.1052@67.27.1853.1052" timestamp="1586588331399" />
+    <state x="657" y="243" width="672" height="680" key="run.anything.popup" timestamp="1586591378066">
+      <screen x="67" y="27" width="1853" height="1052" />
+    </state>
+    <state x="657" y="243" width="672" height="680" key="run.anything.popup/67.27.1853.1052@67.27.1853.1052" timestamp="1586591378066" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="fs.ReadStatus(&quot;id0001&quot;)" />
+        <watch expression="query(client,channel,chaincodeID,&quot;query&quot;,args)" />
+        <watch expression="fs.ReadStatus(&quot;a&quot;)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
